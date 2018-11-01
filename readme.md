@@ -36,7 +36,7 @@ server {
 ```
 
 ## Screenshots
-[Imgur](https://i.imgur.com/0UGJDZx.png)
-[Imgur](https://i.imgur.com/HZMbfUY.png)
+![Imgur](https://i.imgur.com/0UGJDZx.png)
+![Imgur](https://i.imgur.com/HZMbfUY.png)
 
 
